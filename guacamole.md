@@ -5,3 +5,4 @@
 * salt
 ## Instructions
 * Peel the avocados
+* Remove the pit 
